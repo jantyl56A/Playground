@@ -4,4 +4,4 @@ from sklearn.linear_model import LogisticRegression
 from sklearn.model_selection import train_test_split
 from sklearn.metrics import confusion_matrix
 
-data = pd.read_csv
+data = pd.read_csv(_1c098a5126bed082ac70c387f9ce075c_crp_cleandata.xlsx)
